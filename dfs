@@ -1,0 +1,65 @@
+[33mcommit 2552a463e8a121297c39bf9ef6947af17d4e5da1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 8649cd7 798ebdc
+Author: sergik7955 <147426729+sergik7955@users.noreply.github.com>
+Date:   Tue Oct 10 22:00:06 2023 +0300
+
+    Merge pull request #2 from sergik7955/tex2
+    
+    add one more file
+
+[33mcommit 798ebdc4bfa1058b1e35a24820a81b1096e6ab13[m[33m ([m[1;31morigin/tex2[m[33m, [m[1;32mtex2[m[33m)[m
+Author: root <root@DESKTOP-BQ74UAM>
+Date:   Tue Oct 10 21:52:59 2023 +0300
+
+    add one more file
+
+[33mcommit 8649cd77157148c9b06dde55cc196fdc606a4987[m
+Merge: 970748d 10a0abc
+Author: sergik7955 <147426729+sergik7955@users.noreply.github.com>
+Date:   Tue Oct 10 21:34:28 2023 +0300
+
+    Merge pull request #1 from sergik7955/tex
+    
+    commit from branch tex
+
+[33mcommit 10a0abc10dc555caf8b24fa9d608b5569bfd3b74[m[33m ([m[1;31morigin/tex[m[33m, [m[1;32mtex[m[33m)[m
+Author: root <root@DESKTOP-BQ74UAM>
+Date:   Tue Oct 10 21:16:20 2023 +0300
+
+    commit from branch tex
+
+[33mcommit 970748d99ef4f417a7f028a05e91f45812847fa8[m
+Author: root <root@DESKTOP-BQ74UAM>
+Date:   Tue Oct 10 17:56:30 2023 +0300
+
+    Our commit
+
+[33mcommit 165139616e44a08ec39c83d3f4f6c2dcbcaf6714[m
+Author: root <root@DESKTOP-BQ74UAM>
+Date:   Tue Oct 10 17:39:51 2023 +0300
+
+    add test3
+
+[33mcommit a502af40955c19c6ff81ae605a699c188a6f1bee[m
+Author: root <root@DESKTOP-BQ74UAM>
+Date:   Tue Oct 10 17:02:04 2023 +0300
+
+    add test2
+
+[33mcommit 78995d66a9d151ff9da4a5c58e4dfe772eb4af2e[m
+Author: root <root@DESKTOP-BQ74UAM>
+Date:   Tue Oct 10 12:00:46 2023 +0300
+
+    save2
+
+[33mcommit 0c6012e82dfcc11a8b08202070f318597bdd6bd8[m
+Author: root <root@DESKTOP-BQ74UAM>
+Date:   Tue Oct 10 11:02:43 2023 +0300
+
+    Save1
+
+[33mcommit 1f0890edfa9635e0e7a695d66014fec8a51a007f[m
+Author: sergik7955 <147426729+sergik7955@users.noreply.github.com>
+Date:   Tue Oct 10 10:06:44 2023 +0300
+
+    Initial commit
