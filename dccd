@@ -1,0 +1,155 @@
+[33mcommit 71eb0ca2ead6c6e403751a4fa198fb892ec0ed20[m[33m ([m[1;36mHEAD -> [m[1;32mMaster[m[33m)[m
+Author: root <root@DESKTOP-BQ74UAM>
+Date:   Fri Oct 13 11:09:38 2023 +0300
+
+    newnew
+
+[33mcommit 32cbda9c51513280c99530fdcabc87aafc968058[m[33m ([m[1;31morigin/Master[m[33m)[m
+Author: root <root@DESKTOP-BQ74UAM>
+Date:   Thu Oct 12 20:19:49 2023 +0300
+
+    New
+
+[33mcommit ef84a7597b1ad69e574889704d35725d45c482d0[m[33m ([m[1;31morigin/testing[m[33m, [m[1;32mtesting[m[33m)[m
+Author: root <root@DESKTOP-BQ74UAM>
+Date:   Thu Oct 12 15:19:59 2023 +0300
+
+    add file history.txt
+
+[33mcommit 37b51a4346bec62cb49f9f577c281ead6d1a6cf0[m
+Author: root <root@DESKTOP-BQ74UAM>
+Date:   Thu Oct 12 14:03:18 2023 +0300
+
+    edit file readme
+
+[33mcommit e74f36703920485e929cbea2bd02959ccb9ab32b[m
+Author: root <root@DESKTOP-BQ74UAM>
+Date:   Thu Oct 12 13:49:10 2023 +0300
+
+    add file lorem.txt
+
+[33mcommit aaea4e40490842711c3934cedc1ae1ae87968454[m
+Merge: 36622a2 3ba267b
+Author: sergik7955 <147426729+sergik7955@users.noreply.github.com>
+Date:   Wed Oct 11 21:57:52 2023 +0300
+
+    Merge pull request #6 from sergik7955/revert-5-texBranch5
+    
+    Revert ""
+
+[33mcommit 3ba267b28099dcb2a4a2c74e2cc122bcb8cfc373[m[33m ([m[1;31morigin/revert-5-texBranch5[m[33m)[m
+Author: sergik7955 <147426729+sergik7955@users.noreply.github.com>
+Date:   Wed Oct 11 21:54:49 2023 +0300
+
+    Revert "мы добавили два файла, которые необходимы для поддержания библиотеки"
+
+[33mcommit 36622a2ecb30cebb18315fd9a9506beccfc36a54[m
+Merge: 0fede55 d46f422
+Author: sergik7955 <147426729+sergik7955@users.noreply.github.com>
+Date:   Wed Oct 11 21:48:00 2023 +0300
+
+    Merge pull request #5 from sergik7955/texBranch5
+    
+    мы добавили два файла, которые необходимы для поддержания библиотеки
+
+[33mcommit d46f42286746f542f963a4a1f688ac15b12c33c3[m[33m ([m[1;31morigin/texBranch5[m[33m, [m[1;32mtexBranch5[m[33m)[m
+Author: root <root@DESKTOP-BQ74UAM>
+Date:   Wed Oct 11 19:40:19 2023 +0300
+
+    add more files
+
+[33mcommit 0fede5513702beedd875371a332ce34fddf97ad8[m
+Merge: 2d75a72 0771ef3
+Author: sergik7955 <147426729+sergik7955@users.noreply.github.com>
+Date:   Wed Oct 11 18:54:04 2023 +0300
+
+    Merge pull request #4 from sergik7955/tex4
+    
+    merge new file 6
+
+[33mcommit 0771ef3eef65defc0166bd091f2433a3cc7c85ae[m[33m ([m[1;31morigin/tex4[m[33m)[m
+Author: root <root@DESKTOP-BQ74UAM>
+Date:   Wed Oct 11 18:40:13 2023 +0300
+
+    add file 7
+
+[33mcommit 2d75a72c0e50312b4ee3856d7a93975e1351a10f[m
+Merge: 2552a46 eb1e8a2
+Author: sergik7955 <147426729+sergik7955@users.noreply.github.com>
+Date:   Wed Oct 11 10:41:14 2023 +0300
+
+    Merge pull request #3 from sergik7955/tex3
+    
+    merge new file 6
+
+[33mcommit eb1e8a2f997288d77bf559a804f113c68b1c7461[m[33m ([m[1;31morigin/tex3[m[33m)[m
+Author: root <root@DESKTOP-BQ74UAM>
+Date:   Wed Oct 11 10:26:13 2023 +0300
+
+    add file 6
+
+[33mcommit 2552a463e8a121297c39bf9ef6947af17d4e5da1[m[33m ([m[1;32mtex3[m[33m)[m
+Merge: 8649cd7 798ebdc
+Author: sergik7955 <147426729+sergik7955@users.noreply.github.com>
+Date:   Tue Oct 10 22:00:06 2023 +0300
+
+    Merge pull request #2 from sergik7955/tex2
+    
+    add one more file
+
+[33mcommit 798ebdc4bfa1058b1e35a24820a81b1096e6ab13[m[33m ([m[1;31morigin/tex2[m[33m, [m[1;32mtex2[m[33m)[m
+Author: root <root@DESKTOP-BQ74UAM>
+Date:   Tue Oct 10 21:52:59 2023 +0300
+
+    add one more file
+
+[33mcommit 8649cd77157148c9b06dde55cc196fdc606a4987[m
+Merge: 970748d 10a0abc
+Author: sergik7955 <147426729+sergik7955@users.noreply.github.com>
+Date:   Tue Oct 10 21:34:28 2023 +0300
+
+    Merge pull request #1 from sergik7955/tex
+    
+    commit from branch tex
+
+[33mcommit 10a0abc10dc555caf8b24fa9d608b5569bfd3b74[m[33m ([m[1;31morigin/tex[m[33m, [m[1;32mtex[m[33m)[m
+Author: root <root@DESKTOP-BQ74UAM>
+Date:   Tue Oct 10 21:16:20 2023 +0300
+
+    commit from branch tex
+
+[33mcommit 970748d99ef4f417a7f028a05e91f45812847fa8[m
+Author: root <root@DESKTOP-BQ74UAM>
+Date:   Tue Oct 10 17:56:30 2023 +0300
+
+    Our commit
+
+[33mcommit 165139616e44a08ec39c83d3f4f6c2dcbcaf6714[m
+Author: root <root@DESKTOP-BQ74UAM>
+Date:   Tue Oct 10 17:39:51 2023 +0300
+
+    add test3
+
+[33mcommit a502af40955c19c6ff81ae605a699c188a6f1bee[m
+Author: root <root@DESKTOP-BQ74UAM>
+Date:   Tue Oct 10 17:02:04 2023 +0300
+
+    add test2
+
+[33mcommit 78995d66a9d151ff9da4a5c58e4dfe772eb4af2e[m
+Author: root <root@DESKTOP-BQ74UAM>
+Date:   Tue Oct 10 12:00:46 2023 +0300
+
+    save2
+
+[33mcommit 0c6012e82dfcc11a8b08202070f318597bdd6bd8[m
+Author: root <root@DESKTOP-BQ74UAM>
+Date:   Tue Oct 10 11:02:43 2023 +0300
+
+    Save1
+
+[33mcommit 1f0890edfa9635e0e7a695d66014fec8a51a007f[m
+Author: sergik7955 <147426729+sergik7955@users.noreply.github.com>
+Date:   Tue Oct 10 10:06:44 2023 +0300
+
+    Initial commit
